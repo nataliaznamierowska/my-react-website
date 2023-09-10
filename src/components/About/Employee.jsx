@@ -1,4 +1,4 @@
-import manPicture from "../../images/man.jpg";
+import firstWoman from "../../images/firstWoman.jpg";
 import womanPicture from "../../images/woman.jpg";
 
 const Employee = ({ id, firstName, lastName, position, description }) => {
@@ -6,7 +6,7 @@ const Employee = ({ id, firstName, lastName, position, description }) => {
     <div className="employee">
       <div className="employee-photo-wrapper">
         <img
-          src={id === 1 ? manPicture : womanPicture}
+          src={id === 1 ? firstWoman : womanPicture}
           alt="Zdjęcie pracownika"
           className="employee-photo"
         />
