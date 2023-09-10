@@ -1,5 +1,6 @@
 import services from "../../data/Services";
 import ServiceBox from "./ServiceBox";
+import "./styles/Offer.css"
 
 const Offer = () => {
   return (
