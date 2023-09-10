@@ -49,7 +49,7 @@ body {
 
 /* nav */
 
-.nav {
+/* .nav {
   width: 100%;
   height: 50px;
   background-color: #4e4e4e;
@@ -68,11 +68,11 @@ body {
 
 .nav-menu {
   display: none;
-}
+} */
 
 /* header */
 
-.header {
+/* .header {
   position: relative;
   height: calc(100vh - 50px);
   background-image: url("./images/background-forest.png");
@@ -110,11 +110,11 @@ body {
   text-decoration: none;
   text-align: center;
   line-height: 35px;
-}
+} */
 
 /* about section */
 
-.about {
+/* .about {
   width: 100%;
   background-color: #f1f1f1;
 }
@@ -162,11 +162,11 @@ body {
 
 .employee-description {
   text-align: justify;
-}
+} */
 
 /* offer section */
 
-.offer {
+/* .offer {
   width: 100%;
   background-color: #405d78;
 }
@@ -188,9 +188,9 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   gap: 40px;
-}
+} */
 
-.service-box {
+/* .service-box {
   position: relative;
   width: 100%;
   aspect-ratio: 1 / 1;
@@ -211,11 +211,11 @@ body {
   left: -11px;
   top: -11px;
   background-color: #e07a64;
-}
+} */
 
 /* footer */
 
-.footer {
+/* .footer {
   width: 100%;
   background-color: #4e4e4e;
   padding: 20px 0;
@@ -243,7 +243,7 @@ body {
 .social-media-icon {
   font-size: 31px;
   color: #ffffff;
-}
+} */
 
 /* media queries */
 
